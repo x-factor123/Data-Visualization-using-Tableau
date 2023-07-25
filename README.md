@@ -18,14 +18,25 @@ The data used in this Tableau dashboard is sourced from reputable and reliable r
 The COVID-19 Tableau Dashboard provides insights into the following questions:
 
 Total number of confirmed cases in different nations (through various charts and geographical visualizations).
+
 Total number of recovered cases in different nations (represented using pie charts, bar graphs, or tables).
+
 Total number of confirmed cases in India (specifically represented with relevant charts).
+
 Total number of recovered cases in India (represented similarly to confirmed cases).
+
 Forecasting trend-lines for COVID-19 (using relevant forecasting models and line charts).
+
 Grouping Indian states and analyzing COVID-19 impact (shown through state-level maps and visualizations).
+
 Identifying the highest death rates in international locations (using bar graphs or heat maps).
+
 Identifying the least death rates (similarly represented through visualizations).
+
 Variation in COVID-19 cases around the world (visualized using charts, graphs, or world maps).
+
 Forecasting future COVID-19 trends (employing appropriate forecasting techniques and visual representations).
-Conclusion
-The COVID-19 Tableau Dashboard provides valuable insights into the global and Indian COVID-19 data. It allows users to explore the trends, analyze the impact, and forecast future scenarios related to the pandemic. The interactive and informative visualizations assist in better understanding the data and making informed decisions.
+
+# Conclusion
+
+The COVID-19 Tableau Dashboard provides valuable insights into the global and Indian COVID-19 data. It allows users to explore the trends, analyze the impact, and forecast future scenarios related to the pandemic. The interactive and informative visualizations assist in better understanding the data and making informed decisions
