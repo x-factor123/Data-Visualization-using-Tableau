@@ -1,4 +1,4 @@
-![image](https://github.com/x-factor123/Data-Visualization-using-Tableau/assets/140404386/35308ead-8a47-433d-a25a-75ae34e82fc6)Tableau public Account: https://public.tableau.com/app/profile/satyam.alok
+Tableau public Account: https://public.tableau.com/app/profile/satyam.alok
 
 # COVID-19 Tableau Dashboard Project
 
