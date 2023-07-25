@@ -1,4 +1,4 @@
-Tableau public Account: https://public.tableau.com/app/profile/satyam.alok
+![image](https://github.com/x-factor123/Data-Visualization-using-Tableau/assets/140404386/35308ead-8a47-433d-a25a-75ae34e82fc6)Tableau public Account: https://public.tableau.com/app/profile/satyam.alok
 
 # COVID-19 Tableau Dashboard Project
 
@@ -7,6 +7,10 @@ This Tableau project focuses on creating an interactive and visually appealing d
 
 ## Project Overview
 The COVID-19 Tableau Dashboard project provides insights into the pandemic's impact on different nations. It visualizes data on confirmed and recovered cases, death rates, and trends to help users understand the COVID-19 situation better.
+![image](https://github.com/x-factor123/Data-Visualization-using-Tableau/assets/140404386/9623605f-fd8a-465e-8357-866b26eb7d6a)
+
+<img width="792" alt="image" src="https://github.com/x-factor123/Data-Visualization-using-Tableau/assets/140404386/d65c7bf2-9e77-4857-8c26-4460d57ea629">
+
 
 ## Data Sources
 The data used in this Tableau dashboard is sourced from reputable and reliable repositories providing COVID-19 datasets from various countries. Some common sources include John Hopkins University, WHO, CDC, and official government health department websites.
